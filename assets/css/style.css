@@ -107,8 +107,12 @@ section{
     max-width: 250px;
     text-shadow: 3px 2px #33A8DB;
 }
+#professional-challenges{
+    text-align: center;
+    width: 800px;
+}
 #professional-challenges img{
-    margin: 32px 0;
+    margin: 32px 0; 
 }
 footer{
     padding: 60px 0;
